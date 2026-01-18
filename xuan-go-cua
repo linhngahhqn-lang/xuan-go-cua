@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Xuân Gõ Cửa 2026</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: "Segoe UI", Arial, sans-serif;
+            background-color: #fff9e6;
+            color: #3e2723;
+            line-height: 1.7;
+        }
+
+        header {
+            background: linear-gradient(to right, #c62828, #fbc02d);
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 42px;
+        }
+
+        header p {
+            font-size: 18px;
+            margin-top: 10px;
+            font-style: italic;
+        }
+
+        .container {
+            width: 85%;
+            margin: auto;
+            padding: 40px 0;
+        }
+
+        section {
+            background: #ffffff;
+            margin-bottom: 35px;
+            padding: 25px 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        h2 {
+            color: #c62828;
+            border-left: 6px solid #fbc02d;
+            padding-left: 12px;
+            margin-bottom: 18px;
+        }
+
+        /* PHẦN 3 */
+        .poem-content {
+            display: flex;
+            gap: 30px;
+            align-items: center;
+        }
+
+        .poem-text {
+            flex: 2;
+            font-style: italic;
+        }
+
+        .poem-image img {
+            width: 100%;
+            border-radius: 10px;
+        }
+
+        /* PHẦN 4 */
+        .image-gallery {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .image-gallery img {
+            width: 100%;
+            border-radius: 10px;
+        }
+
+        ul {
+            margin-left: 20px;
+        }
+
+        footer {
+            background-color: #c62828;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Xuân Gõ Cửa</h1>
+    <p>Xuân mới – Khởi đầu mới – Ước mơ mới</p>
+</header>
+
+<div class="container">
+
+    <!-- PHẦN 1 -->
+    <section>
+        <h2>1. Trang Bìa & Chủ Đề Chung</h2>
+        <p>
+            <strong>Xuân Gõ Cửa</strong> gợi lên khoảnh khắc mùa xuân đang nhẹ nhàng bước đến,
+            mang theo hơi ấm của đất trời, niềm vui sum họp và những hy vọng mới.
+        </p>
+    </section>
+
+    <!-- PHẦN 2 -->
+    <section>
+        <h2>2. Lời Ngỏ – Lời Chúc Xuân</h2>
+        <p>
+            Trong không khí rộn ràng đón Tết cổ truyền của dân tộc, nhóm chúng em xin gửi đến
+            thầy cô và các bạn tờ báo tường <strong>“Xuân Gõ Cửa”</strong> như một món quà tinh thần nhỏ bé.
+        </p>
+
+        <p>
+            Tờ báo là nơi lưu giữ kỷ niệm, là tiếng nói của tuổi học trò, là những suy nghĩ hồn nhiên
+            nhưng đầy ước mơ khi năm cũ khép lại và năm mới bắt đầu.
+        </p>
+
+        <p><strong>Lời chúc năm mới:</strong></p>
+        <ul>
+            <li>Kính chúc thầy cô: Sức khỏe dồi dào, luôn tràn đầy nhiệt huyết.</li>
+            <li>Chúc các bạn: Học giỏi hơn, chăm ngoan hơn và luôn vui vẻ.</li>
+        </ul>
+    </section>
+
+    <!-- PHẦN 3 -->
+    <section>
+        <h2>3. Góc Thơ Xuân</h2>
+        <div class="poem-content">
+            <div class="poem-text">
+                <p>
+                    “Trong làn nắng ửng: khói mơ tan,<br>
+                    Đôi mái nhà tranh lấm tấm vàng.<br>
+                    Sột soạt gió trêu tà áo biếc,<br>
+                    Trên giàn thiên lý. Bóng xuân sang.”
+                </p>
+                <p><strong>(Trích: Mùa xuân chín – Hàn Mặc Tử)</strong></p>
+            </div>
+
+            <div class="poem-image">
+                <img src="https://files.catbox.moe/48k1p0.jpg" alt="Mùa xuân làng quê">
+            </div>
+        </div>
+    </section>
+
+    <!-- PHẦN 4 -->
+    <section>
+        <h2>4. Góc Truyền Thống – Văn Hoá Tết</h2>
+
+        <p>
+            <strong>Ý nghĩa Tết Nguyên Đán:</strong>  
+            Tết là dịp khởi đầu năm mới theo âm lịch, thể hiện sự giao hòa giữa con người và thiên nhiên,
+            là lúc con cháu sum họp, tưởng nhớ tổ tiên.
+        </p>
+
+        <p><strong>Phong tục ngày Tết:</strong></p>
+        <ul>
+            <li>Dọn dẹp, trang hoàng nhà cửa</li>
+            <li>Chúc Tết – lì xì</li>
+            <li>Thăm họ hàng, bạn bè</li>
+        </ul>
+
+        <p><strong>Món ăn & trò chơi dân gian:</strong></p>
+        <ul>
+            <li>Bánh chưng – bánh tét, thịt đông, dưa hành</li>
+            <li>Kéo co, ô ăn quan</li>
+        </ul>
+
+        <div class="image-gallery">
+            <img src="https://files.catbox.moe/05435r.jfif" alt="Lì xì Tết">
+            <img src="https://files.catbox.moe/vi23lm.jfif" alt="Bánh chưng">
+            <img src="https://files.catbox.moe/pyy7jn.jpg" alt="Trò chơi dân gian">
+        </div>
+    </section>
+
+    <!-- PHẦN 5 -->
+    <section>
+        <h2>5. Góc Học Tập & Định Hướng Năm Mới</h2>
+        <p>
+            Năm cũ khép lại, tập thể lớp đã cùng nhau nỗ lực và đạt được nhiều kết quả đáng tự hào.
+        </p>
+        <ul>
+            <li>Học tập: chăm chỉ, chủ động, không ngừng trau dồi kiến thức</li>
+            <li>Rèn luyện: sống kỷ luật, trách nhiệm, biết yêu thương</li>
+            <li>Hoạt động tập thể: gắn bó, sẻ chia</li>
+        </ul>
+    </section>
+
+    <!-- PHẦN 6 -->
+    <section>
+        <h2>6. Góc Sáng Tạo – Vui Nhộn</h2>
+        <p><strong>Cách xin lì xì “tế nhị”:</strong></p>
+        <p>
+            Tết đến, bố mẹ đi chúc Tết, chỉ còn Tý ở nhà.<br>
+            – “Năm mới cháu chúc bác sức khỏe dồi dào ạ!”<br>
+            – “Thế bố mẹ cháu đâu?”<br>
+            – “Dạ, chỉ còn cháu và con lợn đất ở nhà thôi ạ!”
+        </p>
+    </section>
+
+    <!-- PHẦN 7 -->
+    <section>
+        <h2>7. Góc Tri Ân</h2>
+        <p>
+            Chúng em xin gửi lời tri ân sâu sắc đến thầy cô – những người đã âm thầm chắp cánh cho ước mơ.
+        </p>
+        <p>
+            Cảm ơn những người bạn đã cùng đồng hành, sẻ chia suốt một năm qua.
+        </p>
+    </section>
+
+    <!-- PHẦN 8 -->
+    <section>
+        <h2>8. Kết Báo</h2>
+        <p>
+            Báo tường <strong>Xuân Gõ Cửa</strong> khép lại, nhưng một hành trình mới lại mở ra,
+            mang theo niềm tin, hy vọng và tinh thần đoàn kết.
+        </p>
+        <p>
+            Chúng em xin chân thành cảm ơn thầy cô và các bạn đã theo dõi trang web.
+        </p>
+    </section>
+
+</div>
+
+<footer>
+    © 2026 – Báo tường Xuân Gõ Cửa – Nhóm 1
+</footer>
+
+</body>
+</html>
